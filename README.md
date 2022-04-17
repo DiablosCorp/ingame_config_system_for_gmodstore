@@ -1,9 +1,9 @@
-# The Perfect In-game Config for GmodStore
+# In-game Config System for GmodStore
 
 ![Home panel](https://diablosdev.com/gmod/gmodstore/addon/medias/home.png)
 ![Example page](https://diablosdev.com/gmod/gmodstore/addon/medias/addon_example.png)
 
-**The Perfect In-game Config for GmodStore**, _a basic but efficient generic in-game configuration tool_!
+**In-game Config System for GmodStore**, _a basic but efficient generic in-game configuration tool_!
 
 ## Description
 

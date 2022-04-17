@@ -46,7 +46,7 @@ gmodstore.Materials = {
 gmodstore.URL = {
 	diablos = "https://diablosdev.com/",
 	gmodstore = "https://www.gmodstore.com/",
-	github = "https://github.com/DiablosCorp/the_perfect_gmodstore_system",
+	github = "https://github.com/DiablosCorp/ingame_config_system_for_gmodstore",
 	workshop = "https://steamcommunity.com/sharedfiles/filedetails/?id=2795742935",
 }
 

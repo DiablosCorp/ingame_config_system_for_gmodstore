@@ -8,7 +8,7 @@
 ## Description
 
 This addon has been made to centralize in-game configuration in Garry's Mod game!
-Server owners who have their addons on gmodstore are able to configure their addon to fully integrate their on the perfect gmodstore system. The addons will then become configurable in-game as they will be automatically added on the panel!
+Server owners who have their addons on gmodstore are able to configure their addon to fully integrate their on the gmodstore system. The addons will then become configurable in-game as they will be automatically added on the panel!
 
 ## Features
 
